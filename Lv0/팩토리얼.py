@@ -6,4 +6,4 @@ def solution(n):
         fac = fac * answer
     answer = answer - 1
 
-    return answer
+    return answer   
