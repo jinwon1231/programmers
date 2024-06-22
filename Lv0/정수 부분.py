@@ -1,2 +1,2 @@
 def solution(flo):
-    return int(flo)g
+    return int(flo)
