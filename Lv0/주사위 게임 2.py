@@ -11,4 +11,4 @@ def solution(a, b, c):
         answer = (result) * (result2) * (result3)
     else:
         answer = (result) * (result2)
-    return answerg
+    return answer
